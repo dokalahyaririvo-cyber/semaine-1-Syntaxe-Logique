@@ -7,4 +7,4 @@ def count_vowels(text):
     return count
 input_text = input("Enter a text: ")
 count_vowels(input_text)
-print("The number of vowels in the text is:", count_vowels(input_text))
+print("The number of vowels in the text is nothing :", count_vowels(input_text))
