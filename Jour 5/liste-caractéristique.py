@@ -1,0 +1,20 @@
+thislist = ["apple", "banana", "cherry"] 
+print(thislist)
+print(len(thislist))
+print(thislist[1])
+thislist.append("orange")
+print(thislist)
+thislist.insert(1, "lemon")
+print(thislist)
+thislist[2:4] = ["blackcurrant", "watermelon"]
+print(thislist)
+thislist.extend(["kiwi", "mango"])
+print(thislist)
+thislist.remove("orange")
+print(thislist)
+thislist.pop(1)
+print(thislist)
+del thislist[0]
+print(thislist)
+thislist.clear()
+print(thislist)

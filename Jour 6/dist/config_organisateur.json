@@ -1,0 +1,73 @@
+{
+    "Documents": [
+        ".pdf",
+        ".docx",
+        ".txt",
+        ".doc",
+        ".odt",
+        ".rtf"
+    ],
+    "Tableurs": [
+        ".xlsx",
+        ".xlsm",
+        ".xls",
+        ".csv",
+        ".ods"
+    ],
+    "Vidéos": [
+        ".mp4",
+        ".mkv",
+        ".avi",
+        ".mov",
+        ".wmv",
+        ".flv",
+        ".webm"
+    ],
+    "Images": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".bmp",
+        ".svg",
+        ".ico",
+        ".webp"
+    ],
+    "Musique": [
+        ".mp3",
+        ".wav",
+        ".flac",
+        ".m4a",
+        ".aac",
+        ".ogg",
+        ".wma"
+    ],
+    "Archives": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
+    ],
+    "Logiciels": [
+        ".exe",
+        ".msi",
+        ".dmg",
+        ".deb",
+        ".rpm"
+    ],
+    "Code": [
+        ".py",
+        ".js",
+        ".html",
+        ".css",
+        ".java",
+        ".cpp",
+        ".c",
+        ".php",
+        ".json",
+        ".xml"
+    ],
+    "Autres": []
+}
